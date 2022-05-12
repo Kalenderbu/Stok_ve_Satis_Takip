@@ -1,0 +1,43 @@
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\bin\x64\Debug\StokTakip.exe.config
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\bin\x64\Debug\StokTakip.exe.manifest
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\bin\x64\Debug\StokTakip.application
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\bin\x64\Debug\StokTakip.exe
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\bin\x64\Debug\StokTakip.pdb
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.Formsatis.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.frmkategori.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.frmkullanici.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.frmmarka.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.frmMüşteriEkle.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.frmmüşterilistesi.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.frmsatislistesi.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.frmürünekle.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.frmürünlistele.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.exe.manifest
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.application
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.exe
+C:\Users\Oğuz KALENDER\source\repos\StokTakip\obj\x64\Debug\StokTakip.pdb
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\bin\x64\Debug\StokTakip.exe.config
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\bin\x64\Debug\StokTakip.exe.manifest
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\bin\x64\Debug\StokTakip.application
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\bin\x64\Debug\StokTakip.exe
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\bin\x64\Debug\StokTakip.pdb
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.Formsatis.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.frmkategori.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.frmkullanici.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.frmmarka.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.frmMüşteriEkle.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.frmmüşterilistesi.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.frmsatislistesi.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.frmürünekle.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.frmürünlistele.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.Properties.Resources.resources
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.csproj.GenerateResource.cache
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.csproj.CoreCompileInputs.cache
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.exe.manifest
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.application
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.exe
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.pdb
+D:\Üniversite\2. Dönem\Staj Ödevi\Staj Proje denemeleri\Projelerim\Yedek\acces\StokTakip\obj\x64\Debug\StokTakip.csproj.AssemblyReference.cache
